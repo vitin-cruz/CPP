@@ -42,7 +42,9 @@ int main() {
                         }
                 } else {
                     cout << "Mês incorreto!";
-                }04. FUP que receba três valores (d, m, a) representando um dia, um mês e um ano e determine se a data é válida.
+                }
+                
+                // 04. FUP que receba três valores (d, m, a) representando um dia, um mês e um ano e determine se a data é válida.
                 
                 
         }
