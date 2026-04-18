@@ -1,4 +1,4 @@
-//3. FUP com uma função criada que receba um número qualquer vindo do usuário e retorne o quadrado deste número.
+// 02. FUP com uma função criada que receba um número qualquer vindo do usuário e retorne o quadrado deste número.
 
 #include <iostream>
 using namespace std;
