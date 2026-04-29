@@ -31,7 +31,11 @@ int main(){
 
     
     
+<<<<<<< HEAD
     cout << "A media eh: " << mediaArredondada << ".0" << endl;
+=======
+    cout << "A media eh: " << mediaArredondada << ",0" << endl;
+>>>>>>> f45566a181792faa26bc13deb6946143875538f0
 
 
 }
